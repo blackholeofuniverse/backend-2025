@@ -4,7 +4,7 @@ This is a basic backend project created using Node.js and Express.js. The projec
 
 ## Installation
 
-1. Clone the repository using `git clone <repository-url>`.
+1. Clone the repository using `git clone https://github.com/blackholeofuniverse/backend-2025.git`.
 2. Install the dependencies using `npm install`.
 3. Start the server using `npm start`.
 
@@ -12,9 +12,3 @@ This is a basic backend project created using Node.js and Express.js. The projec
 
 1. Open a web browser and navigate to `http://localhost:3000`.
 2. You should see the string "Hello World!" in the browser.
-
-## Endpoints
-
-### GET /
-
-Returns the string "Hello World!".
